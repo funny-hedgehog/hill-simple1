@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hill-simple1/static/css/main.2d9c5e99.css",
+    "main.js": "/hill-simple1/static/js/main.23f6b86f.js",
+    "index.html": "/hill-simple1/index.html",
+    "main.2d9c5e99.css.map": "/hill-simple1/static/css/main.2d9c5e99.css.map",
+    "main.23f6b86f.js.map": "/hill-simple1/static/js/main.23f6b86f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d9c5e99.css",
+    "static/js/main.23f6b86f.js"
+  ]
+}
